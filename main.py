@@ -1,8 +1,3 @@
-# Name: Justin Okeugo
-# COSC 1352: Dr. Carlton
-# Final Pi Project: Driver Drowsiness Detector
-# November 20th, 2020
-
 # import the facial recognition module/library from OpenCV
 import face_recognition
 #this library makes it possible to activate the pi camera
